@@ -1,0 +1,103 @@
+.text {
+    color: #151765;
+    font-size: 25px;
+    margin: 15px;
+}
+
+.podcast-bg {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 50vh;
+    width: 90vw;
+    background-size: cover;
+    margin: 12px;
+}
+
+.bg-text {
+    color: white;
+    font-size: 35px;
+    padding: 12px;
+}
+
+.puri-image {
+    height: 30vh;
+    width: 40vw;
+    padding-top: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.puri-name {
+    font-size: 20px;
+    color: #151765;
+    font-weight: bold;
+    text-align: center;
+    margin-right: 20px;
+}
+
+.puri-episode {
+    color: #5a7184;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+
+
+.bg-container2 {
+    background-color: #151765;
+    height: 45vh;
+    width: 100vw;
+    background-size: cover;
+
+}
+
+.puri-image2 {
+    height: 40vh;
+    width: 60vw;
+    padding: 30px;
+
+}
+
+.puri-txt {
+    color: white;
+    font-size: 16px;
+    padding: 12px;
+}
+
+.molecular {
+    color: #151765;
+    font-size: 30px;
+    font-family: "Roboto";
+    font-weight: bold;
+    margin-top: 5px;
+    padding: 5px;
+    margin-bottom: 2px;
+}
+
+.any {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: normal;
+    padding: 5px;
+}
+
+.time {
+    padding: 12px;
+    padding-top: 2px;
+    margin-top: -10px;
+}
+
+.button {
+    background-color: #151765;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    height: 40px;
+    width: 80px;
+    margin: 12px;
+}
+
+.bt2 {
+    text-align: right;
+}
